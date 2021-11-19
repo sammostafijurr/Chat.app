@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464209041551",
+    "project_id": "rj-chat-632b7",
+    "storage_bucket": "rj-chat-632b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464209041551:android:09eef434895b019fb478fa",
+        "android_client_info": {
+          "package_name": "com.example.rjid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464209041551-vp2slusp0dq53ip7r9k1ukjd1psbbhfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoshE2YSMYBQd7vyKidSmQ-VIQjL5nUEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464209041551-vp2slusp0dq53ip7r9k1ukjd1psbbhfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
